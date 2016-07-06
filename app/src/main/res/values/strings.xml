@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pra11(Expandable List View )</string>
+
+
+    <string-array name="MainTitle">
+        <item>Liga Angielska</item>
+        <item>Liga Hiszpańska</item>
+        <item>Liga Włoska</item>
+
+</string-array>
+
+
+    <string-array name="childAngielska">
+
+        <item>Chelsea</item>
+        <item>United</item>
+        <item>City</item>
+        <item>Arsenal</item>
+    </string-array>
+    <string-array name="childHiszpańska">
+
+        <item>Barcelona</item>
+        <item>Real Madryt</item>
+        <item>Athletico Madryt</item>
+        <item>Sevila</item>
+    </string-array>
+    <string-array name="childWłoska">
+
+        <item>Juventus</item>
+        <item>Milan</item>
+        <item>Napoli</item>
+        <item>Torino</item>
+    </string-array>
+
+
+
+</resources>
